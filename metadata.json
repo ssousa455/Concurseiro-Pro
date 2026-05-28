@@ -1,0 +1,6 @@
+{
+  "name": "Concurseiro Pro",
+  "description": "Plataforma completa de estudos para concursos públicos: ciclo de estudos, cronômetro, edital esquematizado, monitor de questões, simulados e estatísticas de desempenho.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
